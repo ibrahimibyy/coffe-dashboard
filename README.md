@@ -19,7 +19,8 @@ This project visualizes and analyzes key metrics for a coffee sales business usi
 - Latte & Americano with Milk lead in total revenue
 
 ## 📎 Screenshots
->  dashboard [page 1](https://github.com/ibrahimibyy/coffe-dashboard/blob/main/coffe%201.png)
-> dashboard  [page 2]()
+- dashboard [page 1](https://github.com/ibrahimibyy/coffe-dashboard/blob/main/coffe%201.png)
+
+- dashboard  [page 2](https://github.com/ibrahimibyy/coffe-dashboard/blob/main/coffee%202.png)
 ## 📩 Let’s Collaborate
 Open to freelance, consulting, and partnerships in analytics projects.
