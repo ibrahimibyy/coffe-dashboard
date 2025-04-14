@@ -1,4 +1,3 @@
-# coffe-dashboard
 # ☕ Coffee Sales Intelligence Dashboard (Power BI)
 
 This project visualizes and analyzes key metrics for a coffee sales business using Microsoft Power BI. It enables owners and analysts to make informed decisions based on trends in customer behavior, products, and payment methods.
