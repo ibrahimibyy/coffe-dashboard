@@ -22,5 +22,7 @@ This project visualizes and analyzes key metrics for a coffee sales business usi
 - dashboard [page 1](https://github.com/ibrahimibyy/coffe-dashboard/blob/main/coffe%201.png)
 
 - dashboard  [page 2](https://github.com/ibrahimibyy/coffe-dashboard/blob/main/coffee%202.png)
+
+- dataset [coffee](https://github.com/ibrahimibyy/coffe-dashboard/blob/main/cleaned_index.csv)
 ## 📩 Let’s Collaborate
 Open to freelance, consulting, and partnerships in analytics projects.
